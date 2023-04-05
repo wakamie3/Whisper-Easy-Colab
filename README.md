@@ -1,6 +1,6 @@
 # Whisper-Easy-Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akitana-airtanker/Whisper-Easy-Colab/blob/master/Whisper.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wakamie3/Whisper-Easy-Colab/blob/master/Whisper.ipynb)
 
 OpneAI が開発した Whisper で音声認識を行います。
 
